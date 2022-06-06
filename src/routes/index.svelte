@@ -14,6 +14,6 @@
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"/>
 </svelte:head>
 
-<h1>Tô só tentandoajeitar isso aqui</h1>
+<h1 class="text-3xl font-bold underline">Tô só tentandoajeitar isso aqui</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
 <Form/>
