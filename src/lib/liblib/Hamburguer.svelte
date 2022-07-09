@@ -2,10 +2,10 @@
 	export let open = false
 </script>
 
-<button class="text-violet-700 hover:text-violet-900 cursor-pointer mr-4 border-none focus:outline-none" class:open on:click={() => open = !open}>
+<button class="hover:text-text text-surface2 transition delay-200 ease-in-out cursor-pointer mr-4 border-none focus:outline-none" class:open on:click={() => open = !open}>
 	<svg width=32 height=24>
 		<line id="top" x1=0 y1=2  x2=32 y2=2/>
-		<line id="middle" x1=0 y1=12 x2=24 y2=12/>
+		<line id="middle" x1=0 y1=12 x2=32 y2=12/>
 		<line id="bottom" x1=0 y1=22 x2=32 y2=22/>
 	</svg>
 </button>

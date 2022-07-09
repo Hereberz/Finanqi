@@ -4,10 +4,10 @@
 
 <aside class="absolute w-50 h-full bg-gray-200 border-r-2 shadow-lg" class:open>
 	<nav class="column-1 p-12 text-xl">
-		<a class="block" href="#resume">Resumo</a>
-		<a class="block" href="#In">Entradas</a>
-		<a class="block" href="#Out">Saídas</a>
-		<a class="block" href="#Params">Params</a>
+		<a class="block" href="/resume">Resumo</a>
+		<a class="block" href="/in">Entradas</a>
+		<a class="block" href="/out">Saídas</a>
+		<a class="block" href="/params">Params</a>
         </nav>
         </aside>
 

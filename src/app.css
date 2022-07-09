@@ -1,7 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-    background-image: linear-gradient(100deg,plum, red);
-}
